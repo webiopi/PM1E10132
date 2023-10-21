@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PM1E10132</string>
+    <string name="RespuestaExito">Registro Ingresado con Exito</string>
+    <string name="RespuestaError">ERROR: No se Guardo el Registro</string>
+</resources>
